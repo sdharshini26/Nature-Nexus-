@@ -12,7 +12,7 @@ Conventional packaging can contribute to plastic pollution and long-lasting wast
 
 3. Proposed Solution
 
-The concept investigates a biodegradable package made using banana stem fibre, coconut husk pulp and starch-based materials. It also explores embedding viable seeds into selected parts of the package to encourage planting after use.
+The project explores a compostable snack packaging pouch made from kraft paper with a proposed starch-based and chitosan barrier coating, a natural wax inner layer, and separate seed strips attached using guar-gum adhesive. Sorbitol is considered as a plasticiser, while viable seeds are incorporated into designated strips to encourage planting after use. The material composition and performance will be evaluated through prototype testing.
 
 4. Proposed Materials
 
